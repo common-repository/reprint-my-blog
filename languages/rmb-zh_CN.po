@@ -1,0 +1,179 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Reprint My Blog\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2011-04-20 13:26+0800\n"
+"PO-Revision-Date: 2011-04-20 13:37+0800\n"
+"Last-Translator: LastLeaf <qstar163@163.com>\n"
+"Language-Team: LastLeaf\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: __;__rmb\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-Language: Chinese\n"
+"X-Poedit-Country: CHINA\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../reprint-my-blog.php:17
+msgid "A new post titled \"[title]\" was published on your another blog. Do you want it to be published on [blogname] ?<br />If yes, just visit<br />[yeslink]<br />Or else, visit<br />[nolink]<hr />This mail was automatically sent. Please do not reply."
+msgstr "您在另一个博客上发布了文章《[title]》。你需要这篇文章也同时在 [blogname] 上发布吗？<br />如果需要发布，请点击这个链接：<br />[yeslink]<br />不需要发布，请点击这个链接：<br />[nolink]<hr />这个邮件由系统自动发出，请不要回复，谢谢。"
+
+#: ../reprint-my-blog.php:18
+msgid "Too many posts have been found at a time, so you need to publish manually.<br />To see the whole pending list, visit<br />[listlink]<hr />"
+msgstr "上一次检查您的博客时，系统发现了很多新的篇目，所以您需要前往后台确认是否发布它们。<br />查看所有等待您确认转载的文章，请访问：<br />[listlink]<hr />"
+
+#: ../reprint-my-blog.php:45
+msgid " seconds"
+msgstr "秒"
+
+#: ../reprint-my-blog.php:93
+msgid "Reprint My Blog"
+msgstr "转载我的博客"
+
+#: ../reprint-my-blog.php:93
+#: ../reprint-my-blog.php:103
+msgid "Reprint My Blog Options"
+msgstr "转载我的博客 选项"
+
+#: ../reprint-my-blog.php:99
+#: ../reprint-my-blog.php:362
+msgid "You do not have sufficient permissions to access this page."
+msgstr "您不能查看这一页。可能是访问出错了。"
+
+#: ../reprint-my-blog.php:104
+msgid "Get my latest updates now!"
+msgstr "立刻检查我在另一个博客上的更新！"
+
+#: ../reprint-my-blog.php:160
+msgid "Blog feed address has not been set."
+msgstr "博客Feed订阅地址未设置"
+
+#: ../reprint-my-blog.php:165
+msgid "An error occurred when fetching feeds!"
+msgstr "访问Feed订阅地址时出错了。"
+
+#: ../reprint-my-blog.php:170
+msgid "No post was found in blog feed address. If your blog is not empty, please check your feed address!"
+msgstr "在Feed订阅地址中没有找到文章。如果您的另一个博客原本有文章，请检查Feed订阅地址是否填写正确。"
+
+#: ../reprint-my-blog.php:174
+msgid "Your blog feed was found. The title of the latest post is"
+msgstr "您的博客已经找到，目前最新的文章标题是"
+
+#: ../reprint-my-blog.php:192
+msgid "Options saved."
+msgstr "设置已保存。"
+
+#: ../reprint-my-blog.php:194
+msgid "An error occurred when saving options!"
+msgstr "设置保存时出错！"
+
+#: ../reprint-my-blog.php:226
+msgid "Enable auto reprint my blog for me"
+msgstr "启用文章转载功能"
+
+#: ../reprint-my-blog.php:228
+msgid "My blog feed address"
+msgstr "另一个博客的Feed订阅地址"
+
+#: ../reprint-my-blog.php:231
+msgid "Warning! Modify the feed address will cause the pending list cleared!"
+msgstr "警告！修改Feed订阅地址，会导致等待确认转载的文章列表被清空！"
+
+#: ../reprint-my-blog.php:234
+msgid "When a new post is found"
+msgstr "有新的文章发布时"
+
+#: ../reprint-my-blog.php:238
+msgid "auto fetch and publish in this blog"
+msgstr "自动转载到这个博客"
+
+#: ../reprint-my-blog.php:242
+msgid "email me and ask me whether I want to publish in this blog or not"
+msgstr "给我发一封邮件通知，让我决定是否转载到这里"
+
+#: ../reprint-my-blog.php:243
+msgid "Your email address is"
+msgstr "您的邮箱地址是"
+
+#: ../reprint-my-blog.php:243
+msgid "go to the profile options page to modify it"
+msgstr "前往用户设置面板更改邮箱地址"
+
+#: ../reprint-my-blog.php:247
+msgid "auto publish it if I have not decided after 24 hours"
+msgstr "如果24小时内我没有作出决定，请自动发布"
+
+#: ../reprint-my-blog.php:252
+msgid "Redirect to my original post when entering the post page"
+msgstr "当转载来的文章被访问时，自动跳转到转载前的文章"
+
+#: ../reprint-my-blog.php:256
+msgid "Redirect to my blog when entering my author page"
+msgstr "当我的作者页面被访问时，自动跳转到我的另一个博客"
+
+#: ../reprint-my-blog.php:257
+msgid "My blog home page address"
+msgstr "另一个博客主页地址"
+
+#: ../reprint-my-blog.php:260
+msgid "Save Options"
+msgstr "保存设置"
+
+#: ../reprint-my-blog.php:287
+msgid "An error occurred when fetching feeds. No post was found."
+msgstr "无法打开Feed订阅地址"
+
+#: ../reprint-my-blog.php:289
+msgid "Successfully checked feeds."
+msgstr "成功检查了另一个博客上的更新。"
+
+#: ../reprint-my-blog.php:303
+msgid "A post has been published:"
+msgstr "文章成功发布："
+
+#: ../reprint-my-blog.php:310
+msgid "A post has been ignored:"
+msgstr "文章被忽略，没有发布："
+
+#: ../reprint-my-blog.php:315
+msgid "All posts have been ignored."
+msgstr "忽略了所有文章。"
+
+#: ../reprint-my-blog.php:325
+msgid "A new post has been found on your blog. Publish it here?"
+msgstr "您的另一个博客上有更新，转载到这里吗？"
+
+#: ../reprint-my-blog.php:327
+msgid "New posts have been found on your another blog. Publish them here?"
+msgstr "您的另一个博客上有更新，转载到这里吗？"
+
+#: ../reprint-my-blog.php:327
+msgid "Ignore all"
+msgstr "忽略全部"
+
+#: ../reprint-my-blog.php:331
+msgid "Publish"
+msgstr "发布"
+
+#: ../reprint-my-blog.php:332
+msgid "Ignore"
+msgstr "忽略"
+
+#: ../reprint-my-blog.php:441
+msgid "You have already disabled Reprint My Blog"
+msgstr "您禁止了 转载我的博客"
+
+#: ../reprint-my-blog.php:447
+msgid "Publish failed. An error occurred when fetching. You may try it later."
+msgstr "发布失败。无法访问另一个博客的Feed订阅地址。您可以试试几分钟后再试。"
+
+#: ../reprint-my-blog.php:454
+msgid "Publish failed. The post no longer exist on your blog feed."
+msgstr "发布失败。文章已不在另一个博客的Feed订阅地址中。"
+
+#: ../reprint-my-blog.php:517
+msgid "A new post has been found - "
+msgstr "找到了一篇新的文章 - "
+
